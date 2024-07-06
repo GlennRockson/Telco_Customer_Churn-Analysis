@@ -30,26 +30,24 @@ The dataset contained the following features:
 * Churn -- Whether the customer churned or not (Yes or No)
 
 # Data Preprocessing
-* Used Simple Imputer using the mean to Impute the missing values
-* Used label encoder for the target column(Churn column) to encode the two classes 'Yes' and 'No'
-* Used One Hot Encoder to encode the other remaining categorical columns
+* Used Simple Imputer using the median to Impute the missing values
+* Used Simple Imputer (most frequent) and One Hot Encoder to encode the other remaining categorical columns
 * Used SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in target variable(Churn column).
-* Used Standard scaler to normalize the dataset
+* Used Robust scaler to normalize the dataset
 
 # Modelling
  The following Models were trained:
 * Logistic Regression
 * Random Forest
 * Gradient Boosting
-* Support Vector Machine
-* Gaussian Naive Bayes
 * K-Nearest Neighbors
-* Decision Tree
 * XGBoost
 * LightGBM
+* catboost
+* adaboost
 
 # Final Model
-Random Forest with a F1 score of 0.991486574983628
+Random Forest with an accuracy score of 86% and AUC score of 93% was selected. 
  
 # Getting Started
 
