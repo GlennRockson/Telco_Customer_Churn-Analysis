@@ -72,11 +72,12 @@ Dare to be part of the adventure! Contribute and leave your mark on this epic jo
 5. **Submit a Pull Request.**
 
 # Power BI Deployment
-**Link** : https://app.powerbi.com/groups/me/reports/e5cba281-be07-48d3-96c1-07c401565b07/ReportSection?experience=power-bi
+**Link** : https://app.powerbi.com/groups/me/reports/6b96dbed-3068-48bf-b5aa-1008a2a5cb74/ReportSection?experience=power-bi
+
+![alt text](Telco_Customer_Churn.jpg)
 
 # Article on Medium
-https://medium.com/@joojoakorful/indian-startup-ecosysyem-d2c359441172
-
+https://medium.com/@joojoakorful/enhancing-customer-retention-through-churn-prediction-for-a-telco-a-machine-learning-approach-to-860286c85737
 
 ##  Acknowledgements
 Thanks to Azubi Africa and their instructors for guidng us through this journey.Special mention to Glen Anum,Rachel Appiah-Kubi and Portia Bentum.Also thanks to my team mates who helped in diverse way.Thanks to Sena Aku and Elisha Stanley.Thanks to my family and everyone who supported.
